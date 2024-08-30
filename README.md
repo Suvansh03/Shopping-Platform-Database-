@@ -1,2 +1,2 @@
 # Shopping-Platform-Database-
-Designed and implemented a database management system using SQL and PL/SQL for an online shopping platform to efficiently manage and track customer orders, facilitating the transition from offline to online sales models for sellers and manage orders.
+Developed a comprehensive database management system using SQL and PL/SQL for an online shopping platform, designed to streamline the process of managing and tracking customer orders. This project supports sellers transitioning from traditional offline models to online platforms, ensuring efficient order processing and enhancing the overall shopping experience for customers.
